@@ -8,7 +8,7 @@ A simple webapp prototype that serves tech news, blogs, and anything else a deve
 
 ## Home page
 
-![App Screenshot](https://ibb.co/CzWKyGy)
+![App Screenshot](https://i.ibb.co/0cQyLbL/Screenshot-2022-06-16-081814.png)
 
 ## Admin:Login page
 
