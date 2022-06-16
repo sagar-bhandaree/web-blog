@@ -8,7 +8,7 @@ A simple webapp prototype that serves tech news, blogs, and anything else a deve
 
 ## Home page
 
-![App Screenshot](https://cdn.discordapp.com/attachments/884460118715019274/940500445963620352/unknown.png)
+![App Screenshot](https://ibb.co/CzWKyGy)
 
 ## Admin:Login page
 
@@ -38,7 +38,7 @@ A simple webapp prototype that serves tech news, blogs, and anything else a deve
 ```bash
     python manage.py createsuperuser
     # input info and done
-    #current admin username:sachityadav, password:sachityadav
+    #current admin username:dell, password:dell
 
  ```
 
